@@ -59,6 +59,16 @@ input:hover {
   /* ディスプレイ部分は無効化 */
 }
 
+.operator {
+ background: #87cefa;
+}
+.operator:hover{
+ background: #339cdd;
+}
+.operator:active{
+ background: #2c80b4;
+}
+
 /* クリック時に色を濃くする */
 input:active {
   background: #5a5a5a;
